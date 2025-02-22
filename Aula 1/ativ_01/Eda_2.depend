@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1740192064 source:c:\users\eduardo\desktop\code\projetos c\search_sort\eda_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
